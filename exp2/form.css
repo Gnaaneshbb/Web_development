@@ -6,7 +6,7 @@
 form{
     display: inline-flex;
     flex-direction: column;
-    gap: 250px;
+    gap: 25px;
 }
 .div-btn{
     display: flex;
